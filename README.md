@@ -18,5 +18,15 @@
 单词本存放在`./data` 路径下，含有翻译完全和未翻译两种。旧的生词本不会被新生成的生词本覆盖
 
 # 项目环境
+- 用户需要能保证访问到`translate.google.cn`
 - 为保证不出错，请使用`python3.8`及以上环境
-- 项目所需要的包：`numpy`,`argparse`, `tqdm`, 
+- 项目所需要的包：`numpy`,`argparse`, `tqdm`, `googletrans`,其中要保证`googletrans==4.0.0-rc1`或更高
+- 搭建虚拟环境以及安装相关包的方式：
+```shell
+conda create -n summer python=3.8
+conda activate summer
+pip install numpy
+pip install argparse
+pip install tqdm
+pip install googletrans==4.0.0-rc1
+```
