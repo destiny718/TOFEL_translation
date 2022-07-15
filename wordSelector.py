@@ -1,7 +1,6 @@
 import numpy as np
 import argparse
 from googletrans import Translator
-from IPython import embed
 from tqdm import tqdm
 import os
 import re
