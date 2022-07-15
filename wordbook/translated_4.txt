@@ -1,0 +1,100 @@
+第1词组： sphere: 领域	
+第2词组： hail: 冰雹	
+第3词组： crop: 庄稼	
+第4词组： homesteader: 宅基地	
+第5词组： eruption: 喷发	
+第6词组： hydroelectric: 水力发电	
+第7词组： camouflage: 伪装	 gloss: 光泽	 hide: 隐藏	 disguise: 伪装	 invertebrate: 无脊椎动物	
+第8词组： hominid: 人类	 dietary: 饮食	
+第9词组： theorize: 理论	 theoretical: 理论	
+第10词组： responsive: 响应迅速	
+第11词组： volcanic: 火山	
+第12词组： compass: 罗盘	
+第13词组： hoof: 头	
+第14词组： on the stock: 在股票上	 stock up: 库存	
+第15词组： lure: 饵	
+第16词组： subversive: 颠覆性	
+第17词组： turquoise: 绿松石	  quartz: 石英	
+第18词组： constitute: 构成	
+第19词组： troupe: 剧团	
+第20词组： chlorine: 氯	 chlorinate: 氯酸盐	 chloride: 氯化物	
+第21词组： delegate: 代表	 representative: 代表	 authorize: 授权	
+第22词组： sulfuric: 硫酸	
+第23词组： flank: 侧翼	
+第24词组： perceive: 感知	 perceptive: 感知	
+第25词组： provoke: 惹	
+第26词组： peripheral: 外围	
+第27词组： reef: 礁	 coral: 珊瑚	
+第28词组： transfigure: 变形	
+第29词组： flourish: 繁荣	
+第30词组： intestinal: 肠	
+第31词组： stylized: 风格化	
+第32词组： ailment: 病痛	
+第33词组： nominee: 提名人	
+第34词组： emanate: 发出	 emanate from: 来自	
+第35词组： swoop: 猛扑	
+第36词组： disseminate: 传播	
+第37词组： crow: 乌鸦	
+第38词组： intrepid: 强悍	
+第39词组： constrain: 约束	 confine: 局限	 constraint: 约束	
+第40词组： seep: 渗透	 ooze: 浸泡	 seepage: 渗漏	
+第41词组： floral: 花的	
+第42词组： tow: 拖	
+第43词组： solicit: 征求	 solicitor: 律师	 solicitous: 殷勤	 entreat: 恳求	
+第44词组： hydrothermal: 水热	 vent: 发泄	
+第45词组： scrape: 刮	 rub: 擦	 brush: 刷子	 scraping: 刮擦	 scrape off: 刮掉	 scrape along: 刮擦	 scrape by: 刮擦	
+第46词组： clay: 粘土	
+第47词组： diction: 词	 expression: 表达	
+第48词组： unprecedented: 空前的	 precedent: 先例	 unexampled: 未启动	
+第49词组： rancorous: 仇恨	
+第50词组： enact: 制定	
+第51词组： coal: 煤炭	
+第52词组： bleach: 漂白	
+第53词组： patriot: 爱国者	 fervent: 热切	 patriotic: 爱国	 patriotism: 爱国主义	
+第54词组： unprecedented: 空前的	
+第55词组： haunt: 出没	
+第56词组： secrete: 分泌	 excrete: 排泄	
+第57词组： sparse: 疏	
+第58词组： sprout: 发芽	
+第59词组： unadorned: 缦	
+第60词组： invasion: 入侵	 resourceful: 足智多谋	 sauce: 酱	 saucer: 碟子	 recourse: 追索权	
+第61词组： deceive: 欺骗	 deceptive: 欺骗性	
+第62词组： conceive: 构想	
+第63词组： receptacle: 容器	
+第64词组： composition: 作品	
+第65词组： ballerina: 芭蕾舞演员	
+第66词组： rancher: 牧场主	 rodeos: 牛仔竞技表演	
+第67词组： obliterate: 泯	
+第68词组： colonization: 殖民化	
+第69词组： converse: 交谈	
+第70词组： atomization: 雾化	
+第71词组： discipline: 纪律	 drill: 钻头	 disciplined: 纪律	
+第72词组： unsubstantiated: 未经证实	
+第73词组： engulf: 吞噬	
+第74词组： marine mammal: 海洋哺乳动物	
+第75词组： bedrock: 基岩	
+第76词组： corps: 兵团	
+第77词组： sprain: 扭伤	
+第78词组： dissolve: 溶解	
+第79词组： sustainable: 可持续的	
+第80词组： forum: 论坛	
+第81词组： unethical: 不道德的	
+第82词组： herbivore: 草食动物	
+第83词组： luster: 光泽	
+第84词组： influx: 涌入	
+第85词组： perpetual: 永动的	
+第86词组： anecdotal: 轶事	 anecdote: 轶事	
+第87词组： facilitate: 促进	 impulse: 冲动	
+第88词组： patriarch: 族长	
+第89词组： correspondence: 一致	 corresponding: 相应的	
+第90词组： plight: 困境	
+第91词组： expel: 驱逐	 impel: 促使	 compel: 迫使	 repel: 击退	 dispel: 打消	
+第92词组： mediate: 调解	 reconcile: 调和	 compose: 撰写	
+第93词组： grind: 研磨	 grinder: 磨床	 grind down: 碾碎	 grind out: 碾出	
+第94词组： silt: 淤泥	 delta: 三角洲	 clog: 阻塞	
+第95词组： strand: 链	
+第96词组： apprenticeship: 学徒制	
+第97词组： revere: 尊敬	
+第98词组： molecular: 分子	
+第99词组： implement: 实施	
+第100词组： strain: 拉紧	
